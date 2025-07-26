@@ -20,7 +20,7 @@ Données externes : par API sur Open data
 ## 📎 Accès aux fichiers
 
 - 📁 Rapport Power BI (.pbix) → [Télécharger via Google Drive](https://drive.google.com/file/d/1AUfRecW9EAl9ih1BDsMU84pW0jWr-Qu6/view?usp=drive_link)  
-- 📁 Données sources et script Python → [Télécharger les fichiers](https://drive.google.com/file/d/TON_ID_SOURCE/view?usp=sharing)
+- 📁 Données sources  → [Télécharger via google drive](https://drive.google.com/drive/folders/1Xk3dAhaE9kh_IQRuOBfOWyDp6Z1XhMrx?usp=drive_link)
 
 ## 📷 Aperçu
 
