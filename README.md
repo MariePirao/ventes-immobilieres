@@ -1,4 +1,4 @@
-# 🏘️ Analyse des ventes immobilières parisiennes (Power BI)
+# 🏘️ Analyse des ventes immobilières parisiennes
 
 Ce projet avait pour objectif d’identifier les facteurs influençant les ventes immobilières à Paris, à partir de données open data enrichies.
 Donnée vente : téléchargement des fichiers DVF
