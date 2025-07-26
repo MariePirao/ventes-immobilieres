@@ -24,7 +24,7 @@ Données externes : par API sur Open data
 
 ## 📷 Aperçu
 
-![Aperçu du rapport Power BI](./captures/dashboard.png)
+![Aperçu du rapport Power BI](./captures/)
 
 ## Technologies utilisées
 - Python (Pandas, GeoPandas)
